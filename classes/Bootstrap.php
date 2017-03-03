@@ -1,5 +1,4 @@
 <?php
-
 class	Bootstrap {
 	
 	// Constructor AKA __construct()

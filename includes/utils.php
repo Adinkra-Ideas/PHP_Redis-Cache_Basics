@@ -1,5 +1,4 @@
 <?php
-
 // class	QueryKeys {
 // 	public	$predefined;
 

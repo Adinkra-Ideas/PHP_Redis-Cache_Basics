@@ -1,5 +1,4 @@
 <?php
-
 // Class managing all SQL DB errands
 class	Db {
 
